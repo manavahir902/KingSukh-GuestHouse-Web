@@ -24,7 +24,7 @@ _Add some screenshots of the homepage, gallery, and booking form here._
 ## 🚀 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/manavahir902/KingSukh-GuestHouse-Web/
 
 # Navigate to project folder
 cd your-project-folder
