@@ -1,4 +1,4 @@
-# 🏨 King Sukh Guest House Website
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/6166c813-eb10-445d-ab61-21391df9ff60" /># 🏨 King Sukh Guest House Website
 
 A modern, responsive, and SEO-optimized hotel booking website for **King Sukh Guest House** located in Baranti, Purulia, West Bengal.
 
@@ -19,7 +19,12 @@ A modern, responsive, and SEO-optimized hotel booking website for **King Sukh Gu
 - **Deployment:** GitHub Pages / Vercel / Netlify
 
 ## 📸 Screenshots
-_Add some screenshots of the homepage, gallery, and booking form here._
+<img width="1912" height="890" alt="image" src="https://github.com/user-attachments/assets/6a4aad13-4825-4bdc-a6d7-7c6b923ebb9c" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/e1d58076-3fe7-444b-8eed-70a567b6facd" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/6de39e0f-0c03-442b-8b27-6909781f250f" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/6ff0194b-2b21-49ce-8e11-65bd9ecc7315" />
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/ac4716a4-79a9-4556-9d35-5a7f057956d4" />
+
 
 ## 🚀 Installation
 ```bash
