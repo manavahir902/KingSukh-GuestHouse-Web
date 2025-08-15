@@ -19,7 +19,7 @@ A modern, responsive, and SEO-optimized hotel booking website for **King Sukh Gu
 - **Deployment:** GitHub Pages / Vercel / Netlify
 
 ## 📸 Screenshots
-<div style="display: flex; overflow-x: auto; gap: 10px;">
+<div style="display: flex; flex-direction: column; overflow-x: auto; gap: 10px;">
 <img width="1912" height="400" alt="image" src="https://github.com/user-attachments/assets/6a4aad13-4825-4bdc-a6d7-7c6b923ebb9c" />
 <img width="1919" height="400" alt="image" src="https://github.com/user-attachments/assets/e1d58076-3fe7-444b-8eed-70a567b6facd" />
 <img width="1919" height="400" alt="image" src="https://github.com/user-attachments/assets/6de39e0f-0c03-442b-8b27-6909781f250f" />
