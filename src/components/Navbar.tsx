@@ -54,7 +54,7 @@ const Navbar = () => {
               whileHover={{ scale: 1.05 }}
               transition={{ type: 'spring', stiffness: 300 }}
             >
-              <div className="w-12 h-12 rounded-full bg-luxury-gradient flex items-center justify-center">
+              <div className="w-12 h-12 rounded-full bg-luxury-gradient flex items-center justify-center flex-col">
                 <img src={logos} alt="rr" />
               </div>
               <div>
