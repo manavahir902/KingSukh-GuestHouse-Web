@@ -41,6 +41,8 @@ npm install
 # Start development server
 npm run dev
 
+```
+
 
 📍 Address
 Beside Barshal Water Tank, Manpur, Barhanti, West Bengal 723156
