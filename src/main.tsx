@@ -5,7 +5,8 @@ import App from "./App";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
-  <BrowserRouter basename="/KingSukh-GuestHouse-Web">
-    <App />
-  </BrowserRouter>
+<BrowserRouter basename={import.meta.env.BASE_URL}>
+  <App />
+</BrowserRouter>
+
 );
